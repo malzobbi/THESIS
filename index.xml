@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?mso-application progid="Word.Document"?>
+<Root>
+<root_name>Animalia</root_name>
+<parent1>
+	<parent_name>Arthropod</parent_name>
+	<parent_number>1</parent_number>
+	<child_number></child_number>
+	<child1>
+		<child1_name>Insect</child1_name>
+		<child2>
+			<child2_name>Dipteran</child2_name>
+			<child3>
+				<child3_name>Muscide</child3_name>
+				<child4>
+					<child4_name>Musca</child4_name>
+					<child5>
+						<child5_name>Domestic</child5_name>
+							<child6>
+								<child6_name>Housefly</child6_name>
+
+							</child6>
+						
+					</child5>	
+				</child4>
+			</child3>
+		</child2>
+	</child1>
+	
+
+</Root>
+
+
